@@ -99,7 +99,7 @@ The four plots that have been reproduced are shown below:
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](plot1.png) 
 
 
 ### Plot 3
