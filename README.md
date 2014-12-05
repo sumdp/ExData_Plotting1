@@ -94,20 +94,20 @@ The four plots that have been reproduced are shown below:
 ### Plot 1
 
 
-![plot 1](plot1.png) 
+![plot 1](figures/plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](plot1.png) 
+![plot 2](figures/plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot 3](figures/plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot 4](figures/plot4.png) 
 
