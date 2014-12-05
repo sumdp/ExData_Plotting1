@@ -39,7 +39,7 @@ web site</a>:
 
 
 
-When loading the dataset into R, please consider the following:
+When loading the dataset into R, the following was considered:
 
 * The dataset has 2,075,259 rows and 9 columns. First
 calculate a rough estimate of how much memory the dataset will require
@@ -69,7 +69,7 @@ First you will need to fork and clone the following GitHub repository:
 [https://github.com/rdpeng/ExData_Plotting1](https://github.com/rdpeng/ExData_Plotting1)
 
 
-For each plot you should
+For each plot the following steps have been carried out: 
 
 * Construct the plot and save it to a PNG file with a width of 480
 pixels and a height of 480 pixels.
@@ -82,25 +82,24 @@ the `plot1.png` plot. Your code file **should include code for reading
 the data** so that the plot can be fully reproduced. You should also
 include the code that creates the PNG file.
 
-* Add the PNG file and R code file to your git repository
+* Add the PNG file and R code file to your git repository (what you are reading)
 
-When you are finished with the assignment, push your git repository to
-GitHub so that the GitHub version of your repository is up to
+Result of assignment is to have the GitHub version of repository up to
 date. There should be four PNG files and four R code files.
 
 
-The four plots that you will need to construct are shown below. 
+The four plots that have been reproduced are shown below:
 
 
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot 1](plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](plot1.png) 
 
 
 ### Plot 3
